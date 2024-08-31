@@ -1,0 +1,1 @@
+A função de cálculo lê os dados do arquivo JOSN e os armazenados em uma lista, remove os valores de faturamento nulos ou negativos, calcula a média dos valores de faturamento válidos . Cálculo de menor, maior e dias acima da média: Utilize as funções min, max e uma compreensão de lista para calcular os valores desejados.
